@@ -1,7 +1,7 @@
 It is the list of todo...
 
-Practice make a man perfect
-and women pregnant :P
+Practice make a man perfect :)
+
 
 it's time to drill down the groovy grails with restfull web serivces.
 
