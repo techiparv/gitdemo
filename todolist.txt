@@ -3,6 +3,7 @@ It is the list of todo...
 Practice make a man perfect :)
 
 
+let me create conflict scenario to understand how it works 
 it's time to drill down the groovy grails with restfull web serivces.
 
 
